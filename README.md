@@ -10,7 +10,7 @@ I'm Kabir, a web developer with an Associate Degree in Computer Science from UMT
 
 - **Frontend Development:** HTML, CSS, JavaScript
 - **Backend Development:** PHP (Beginner)
-- **Database Management:** SQL
+- **Database Management:** MySQL
 - **Libraries/Frameworks:** jQuery (Beginner)
 
 ## 📫 Contact Me
