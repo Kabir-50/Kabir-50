@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I'm Kabir, a web developer with an Associate Degree in Computer Science from UMT (University of Management and Technology). I have a strong foundation in creating dynamic and responsive web applications using HTML, CSS, and JavaScript. Additionally, I have beginner-level knowledge of PHP and jQuery and skills in creating databases using SQL.
+I'm Kabir, a web developer with an Associate Degree in Computer Science from UMT (University of Management and Technology). I have a strong foundation in creating dynamic and responsive web applications using HTML, CSS, and JavaScript. Additionally, I have beginner-level knowledge of PHP and jquery and skills in creating databases using SQL.
 
 ## 🔧 Skills
 
