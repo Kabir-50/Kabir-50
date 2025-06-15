@@ -15,7 +15,7 @@ I'm Kabir, a web developer with an Associate Degree in Computer Science from UMT
 
 ## 📫 Contact Me
 
-- **Email:** [kibbishahid@gmail.com]([mailto:your-email@example.com](https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=2068&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
+- **Email:** [kabeer.0750@gmail.com]([mailto:your-email@example.com](https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=2068&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
 - **LinkedIn:** [Your LinkedIn Profile](#)
 
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
